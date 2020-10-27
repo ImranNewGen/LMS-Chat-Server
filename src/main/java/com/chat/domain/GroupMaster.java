@@ -16,16 +16,18 @@ import java.io.Serializable;
 @NoArgsConstructor
 @Getter
 @Setter@ToString
-public class ChatMessage implements Serializable {
+public class GroupMaster implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @JsonIgnore
     private Long id;
 
-    private String sender;
-    private String owner;
-    private String receiver;
-    private String message;
-    private String time;
+    private String name;
+    private String member;
+
+    public GroupMaster(String name, String member) {
+        this.name = name;
+        this.member = member;
+    }
 }
