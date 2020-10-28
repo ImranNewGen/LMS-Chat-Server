@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="595ac435-469a-49be-8790-d93ee0c006ec" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chat/dao/GroupMasterRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chat/domain/GroupMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chat/form/AddEditGroupForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chat/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chat/controller/HomeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/chat/controller/HomeRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chat/controller/HomeRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chat/dao/ChatMessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chat/dao/ChatMessageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chat/domain/ChatMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chat/domain/ChatMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chat/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chat/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chat/controller/HomeRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chat/controller/HomeRestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chat/domain/ChatMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chat/domain/ChatMessage.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,26 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/chat/controller/HomeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1196">
-              <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
-              <folding>
-                <element signature="method#sendMessageEnter#0;class#HomeController#0" />
-                <element signature="method#addGroup#0;class#HomeController#0" />
-                <element signature="method#editGroup#0;class#HomeController#0" />
-                <element signature="method#leaveGroup#0;class#HomeController#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HomeRestController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/chat/controller/HomeRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+            <state relative-caret-position="288">
+              <caret line="42" column="48" lean-forward="true" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -133,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,74 +116,13 @@
               <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
               <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chat" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chat" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chat" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lms-chat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lms-chat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chat" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,12 +241,13 @@
       <workItem from="1603513939819" duration="2267000" />
       <workItem from="1603599122530" duration="2612000" />
       <workItem from="1603698193919" duration="6864000" />
-      <workItem from="1603771918219" duration="11098000" />
+      <workItem from="1603771918219" duration="11613000" />
+      <workItem from="1603858583546" duration="4666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95777000" />
+    <option name="totallyTimeSpent" value="100958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
@@ -359,9 +274,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295964" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19866444" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20144686" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -369,6 +283,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,9 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,13 +542,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/chat/form/InstituteUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chat/form/InstituteUser.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/chat/dao/GroupMasterRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -662,15 +568,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="27" column="27" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/chat/controller/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1196">
+        <state relative-caret-position="24">
           <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
           <folding>
             <element signature="method#sendMessageEnter#0;class#HomeController#0" />
@@ -683,8 +586,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/chat/controller/HomeRestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+        <state relative-caret-position="288">
+          <caret line="42" column="48" lean-forward="true" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
         </state>
       </provider>
     </entry>
